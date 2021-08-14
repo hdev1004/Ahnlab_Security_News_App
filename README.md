@@ -41,4 +41,4 @@
 <br/>
 
 > # 실행화면 (Demo)
-> ![demo](https://user-images.githubusercontent.com/59737252/129437943-7af36b08-0783-4a8e-9f7c-182967b2ee64.png)
+> ![demo](https://user-images.githubusercontent.com/59737252/129437992-7fa763b8-b983-4e1b-a6ea-d5aa395acc56.png)

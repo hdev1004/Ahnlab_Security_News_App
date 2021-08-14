@@ -13,6 +13,7 @@
 >     - http://materialdesigninxaml.net/
 
 <br/>
+
 > # Usage
 > - Git Clone
 >   - git clone https://github.com/hdev1004/Ahnlab_Security_News_App.git
@@ -21,6 +22,7 @@
 >   - Ahnlab_Security_News_App/SecurityApp/bin/Debug/SecurityApp.exe
 
 <br/>
+
 > # File Description
 > - Ahnlab_Security_News_App/SecurityApp/Resources
 >     - 프로그램에 사용되는 이미지 파일

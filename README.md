@@ -7,10 +7,10 @@
 
 > # Usage
 > - Git Clone
->   git clone https://github.com/hdev1004/Ahnlab_Security_News_App.git
+>   - git clone https://github.com/hdev1004/Ahnlab_Security_News_App.git
 > 
 > - Executable File Location
->   SecurityApp/bin/Debug/SecurityApp.exe
+>   - SecurityApp/bin/Debug/SecurityApp.exe
 
 > # File Description
 > 

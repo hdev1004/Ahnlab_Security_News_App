@@ -3,18 +3,36 @@
 > - 안랩 보안 뉴스 프로그램
 > Ahnlab Link
 >    https://www.ahnlab.com/kr/site/securityinfo/secunews/secuNewsList.do?menu_dist=1
+> 
+> - 제작 언어
+>     - C# - WPF (Windows Presentation Foundation)
+>     - Python (Beautifulsoup Parsing)
+>  
+> - UI Framework 
+>     - Meterial Desing In Xaml Toolkit
+>     - http://materialdesigninxaml.net/
 
-<br/><br/>
+<br/>
 > # Usage
 > - Git Clone
 >   - git clone https://github.com/hdev1004/Ahnlab_Security_News_App.git
 > 
 > - Executable File Location
->   - SecurityApp/bin/Debug/SecurityApp.exe
+>   - Ahnlab_Security_News_App/SecurityApp/bin/Debug/SecurityApp.exe
 
-
-<br/><br/>
+<br/>
 > # File Description
+> - Ahnlab_Security_News_App/SecurityApp/Resources
+>     - 프로그램에 사용되는 이미지 파일
 > 
-  
+> - Ahnlab_Security_News_App/SecurityApp/Install.cs
+>     - 컴퓨터 부팅 시 프로그램을 실행하게 하는 레지스트리 등록 C# 파일 (자작)
+>     - https://blog.naver.com/zlatmgpdjtiq/222139193438
+> 
+> - Ahnlab_Security_News_App/SecurityApp/MainWindow.xaml.cs 
+>     - 메인 실행 파일
+> 
+> - Ahnlab_Security_News_App/SecurityApp/bin/Debug/Resources/security.exe
+>     - 파이썬 파싱 프로그램
+>     - (cmd -> start security.exe) 를 해봄으로써 확인 가능 
 

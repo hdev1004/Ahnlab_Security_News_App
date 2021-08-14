@@ -24,7 +24,8 @@ namespace SecurityApp
         {
             get { return app; }
             set { app = value; }
-        }
+        }  
+
         public string regKey
         {
             get { return reg.Name; }

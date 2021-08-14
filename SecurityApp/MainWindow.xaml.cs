@@ -62,6 +62,7 @@ namespace SecurityApp
 
         private void CenterWindowOnScreen()
         {
+            Console.WriteLine("Set Center");
             double screenWidth = System.Windows.SystemParameters.PrimaryScreenWidth;
             double screenHeight = System.Windows.SystemParameters.PrimaryScreenHeight;
             double windowWidth = this.Width;

@@ -20,6 +20,8 @@
 > 
 > - Executable File Location
 >   - Ahnlab_Security_News_App/SecurityApp/bin/Debug/SecurityApp.exe
+> - Download link
+>   - https://drive.google.com/file/d/1kw0klqkY6C4JhVyt9hY0QNJmzmJZj3n8/view?usp=sharing
 
 <br/>
 
